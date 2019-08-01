@@ -1,3 +1,11 @@
+'''
+Goals of the notebook:
+
+- [ ] Replicate figure IX - Switching threshold for different refinancing rates
+    - This is done right after calculating the value functions for borrowers
+- [ ] Replicate figure X - IRFs of consmption and refinance propensity to a mortgage rate decline
+'''
+
 import numpy as np
 import quantecon as qe
 import matplotlib.pyplot as plt
